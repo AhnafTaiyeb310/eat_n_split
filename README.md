@@ -7,7 +7,7 @@ A simple web app that helps users split bills easily and keep track of shared ex
 Add friends and keep track of balances
 Split bills quickly
 Simple, clean UI
-Built with [React / whatever tech you used]
+Built with [React]
 
 🔧 Technologies Used
 React
